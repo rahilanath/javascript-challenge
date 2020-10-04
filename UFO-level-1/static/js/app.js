@@ -1,4 +1,4 @@
-// letiables
+// variables
 let ufoData = data;
 let tbody = d3.select("tbody");
 let form = d3.select("form");
